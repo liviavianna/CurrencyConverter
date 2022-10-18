@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/liviavianna/CurrencyConverter.git/static/css/main.42f2f6ff.css",
-    "main.js": "/liviavianna/CurrencyConverter.git/static/js/main.ae700230.js",
-    "index.html": "/liviavianna/CurrencyConverter.git/index.html",
-    "main.42f2f6ff.css.map": "/liviavianna/CurrencyConverter.git/static/css/main.42f2f6ff.css.map",
-    "main.ae700230.js.map": "/liviavianna/CurrencyConverter.git/static/js/main.ae700230.js.map"
+    "main.css": "/CurrencyConverter/static/css/main.42f2f6ff.css",
+    "main.js": "/CurrencyConverter/static/js/main.ae700230.js",
+    "index.html": "/CurrencyConverter/index.html",
+    "main.42f2f6ff.css.map": "/CurrencyConverter/static/css/main.42f2f6ff.css.map",
+    "main.ae700230.js.map": "/CurrencyConverter/static/js/main.ae700230.js.map"
   },
   "entrypoints": [
     "static/css/main.42f2f6ff.css",
