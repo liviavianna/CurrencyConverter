@@ -23,7 +23,8 @@ button {
 	border-radius: 8px;
 	cursor: pointer;
 	font-weight: bold;
-	padding: 13px 32px;
+  margin-top: 15px;
+  padding: 11px 25px;
 	text-decoration: none;
   border: none;
 }
